@@ -1,6 +1,6 @@
 Sitemap Generator
 ===================
-Component generates sitemap.xml for your controllers/actions or random pages.
+Component generates sitemap.xml for your models, controller actions or random pages.
 
 Installation
 ------------
