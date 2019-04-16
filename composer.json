@@ -1,8 +1,8 @@
 {
     "name": "andrewdanilov/yii2-sitemap",
     "description": "Component generates sitemap.xml for your models, controller actions or random pages.",
-    "type": "library",
-    "keywords": ["php","sitemap","generator"],
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","sitemap","generator"],
     "license": "MIT",
     "authors": [
         {
